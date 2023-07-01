@@ -1,24 +1,14 @@
-# ITC-CSCC-23-EPA-ECC
+# ITC-CSCC_23-EPA ECC
 
-Copyright (c) 2015, SAFARI Research Group at Carnegie Mellon University
+# Author
 
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+**Sangjae Park** 
+- Email: mainpower4309@gmail.com
 
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the Software.
+Paper title: [ACCESS'22] On-Die Dynamic Remapping Cache: Strong and Independent Protection Against Intermittent Faults
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Paper URL: https://ieeexplore.ieee.org/abstract/document/9834921
 
-Paper title: EPA ECC: Error-Pattern-Aligned ECC for HBM2E
+
+# Overview
+![An Overview of the evaluation](https://github.com/xyz123479/ACCESS_22-DRC/blob/main/DRC.png)
