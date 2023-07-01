@@ -1,17 +1,10 @@
-# ITC-CSCC'23-EPA ECC
+# Reliability
 
-# Author
+# Prior work (Fig. 1)
+![An Overview of the prior work](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/1_Reliability/EPA%20ECC_Prior%20work_SEC_DED.png)
 
-**Kiheon Kwon** 
-- Email: mainpower4309@gmail.com
+# Motivation (Table 1) - Dominant soft error patterns
+![Motivation](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/1_Reliability/EPA%20ECC_Soft%20error%20pattern.png)
 
-**Dongwhee Kim**
-- Email: xyz12347976@gmail.com
-- Google Scholar: https://scholar.google.com/citations?user=8xzqA8YAAAAJ&hl=ko&oi=ao
-
-Paper title: [ITC-CSCC'23] EPA ECC: Error-Pattern-Aligned ECC for HBM2E
-
-Paper URL: **(to be updated later)**
-
-# Overview
-![An Overview of the evaluation](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/EPA%20ECC_Overview.png)
+# Code Layout of EPA ECC (Fig. 3)
+![An overview of the EPA ECC](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/1_Reliability/EPA%20ECC_Prior%20work_SSC_DSD.png)
