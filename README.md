@@ -7,6 +7,7 @@
 
 **Dongwhee Kim**
 - Email: xyz12347976@gmail.com
+- Google Scholar: https://scholar.google.com/citations?user=8xzqA8YAAAAJ&hl=ko&oi=ao
 
 Paper title: [ITC-CSCC'23] EPA ECC: Error-Pattern-Aligned ECC for HBM2E
 
