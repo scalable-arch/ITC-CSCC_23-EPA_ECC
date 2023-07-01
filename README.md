@@ -2,12 +2,15 @@
 
 # Author
 
-**Sangjae Park** 
+**Kiheon Kwon** 
 - Email: mainpower4309@gmail.com
 
-Paper title: [ACCESS'22] On-Die Dynamic Remapping Cache: Strong and Independent Protection Against Intermittent Faults
+**Dongwhee Kim**
+- Email: xyz12347976@gmail.com
 
-Paper URL: https://ieeexplore.ieee.org/abstract/document/9834921
+Paper title: [ITC-CSCC'23] EPA ECC: Error-Pattern-Aligned ECC for HBM2E
+
+Paper URL: **(to be updated later)**
 
 
 # Overview
