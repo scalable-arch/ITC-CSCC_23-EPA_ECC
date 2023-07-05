@@ -3,7 +3,7 @@
 # Author
 
 **Kiheon Kwon** 
-- Email: mainpower4309@gmail.com
+- Email: ytn955000@naver.com
 
 **Dongwhee Kim**
 - Email: xyz12347976@gmail.com
