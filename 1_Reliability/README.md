@@ -1,6 +1,6 @@
 # Reliability
 
-# ECC block configuration
+# HBM2E ECC block configuration
 - Data: 256 bit
 - System ECC redundancy: 32 bit
 - On-Die ECC redundancy: 24 bit
