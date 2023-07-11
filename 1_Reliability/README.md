@@ -1,5 +1,24 @@
 # Reliability evaluation
 
+# Code flows (Fault_sim.cpp)
+- 1. Setting ECC-DIMM configuration & error scenarios.
+- 2. Setting output function name: output.S file.
+- 3. **(Start loop)** DDR4 ECC-DIMM setup
+- 4. Initialize all data in 18 chips to 0: Each chip has 136 bits of data (128) + redundancy (8).
+- 5. Error injection: Errors occur based on the error scenarios. **(Caution!) This evaluation has no fault!**
+- 6. Apply **OD-ECC (On-Die ECC)**: Apply the Hamming SEC code of (136, 128) to each chip.
+>> After running OD-ECC, OD-ECC redundancy does not come from the chip (128-bit data).
+- 7. Apply **RL-ECC (Rank-Level ECC)**
+>> Run (144, 128) RL-ECC by bundling two beats.
+>> 
+>> 8 Burst Length (BL) creates one memory transfer block (64B cacheline + 8B redundancy).
+>> 
+>> In DDR4 x4 DRAM, because of internal prefetching, only 32bit of data from each chip's 128bit data is actually transferred to the cache.
+>> 
+>> For this, create four memory transfer blocks for 128-bit data and compare them.
+- 8. Report CE/DUE/SDC results.
+- 9. **(End loop)** Derive final results.
+
 # HBM2E ECC block configuration [1]
 - Data: 256 bit
 - System ECC redundancy: 32 bit
