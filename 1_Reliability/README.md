@@ -38,6 +38,11 @@
 - $ make
 - $ python run.py
 
+# Answer (.S files)
+- CE: detected and corrected error
+- DUE: detected but uncorrected error
+- SDC: Silent Data Corruption
+
 # References
 - **[1]** Chun, Ki Chul, et al. "A 16-GB 640-GB/s HBM2E DRAM with a data-bus window extension technique and a synergetic on-die ECC scheme." IEEE Journal of Solid-State Circuits 56.1 (2020): 199-211.
 - **[2]** Reed, Irving S., and Gustave Solomon. "Polynomial codes over certain finite fields." Journal of the society for industrial and applied mathematics 8.2 (1960): 300-304.
