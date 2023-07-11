@@ -1,6 +1,6 @@
 # Reliability
 
-# HBM2E ECC block configuration
+# HBM2E ECC block configuration [1]
 - Data: 256 bit
 - System ECC redundancy: 32 bit
 - On-Die ECC redundancy: 24 bit
@@ -18,7 +18,8 @@
 # Code Layout of EPA ECC (Fig. 3)
 ![An overview of the EPA ECC](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/1_Reliability/EPA%20ECC_Prior%20work_SSC_DSD.png)
 - OD-ECC: [39, 36] SSC-DSD over GF(256)
-- Using Reed-Solomon code **[1]**
+- Using Reed-Solomon code **[2]**
 
 # References
-- **[1]** Reed, Irving S., and Gustave Solomon. "Polynomial codes over certain finite fields." Journal of the society for industrial and applied mathematics 8.2 (1960): 300-304.
+- **[1]** Chun, Ki Chul, et al. "A 16-GB 640-GB/s HBM2E DRAM with a data-bus window extension technique and a synergetic on-die ECC scheme." IEEE Journal of Solid-State Circuits 56.1 (2020): 199-211.
+- **[2]** Reed, Irving S., and Gustave Solomon. "Polynomial codes over certain finite fields." Journal of the society for industrial and applied mathematics 8.2 (1960): 300-304.
