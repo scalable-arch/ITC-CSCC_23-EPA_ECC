@@ -1,4 +1,4 @@
-# Reliability
+# Reliability evaluation
 
 # HBM2E ECC block configuration [1]
 - Data: 256 bit
