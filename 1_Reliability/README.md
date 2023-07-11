@@ -33,6 +33,11 @@
 - Num of Redundancy-DQ: 8
 - Burst Length: 4
 
+# Getting Started
+- $ make clean
+- $ make
+- $ python run.py
+
 # References
 - **[1]** Chun, Ki Chul, et al. "A 16-GB 640-GB/s HBM2E DRAM with a data-bus window extension technique and a synergetic on-die ECC scheme." IEEE Journal of Solid-State Circuits 56.1 (2020): 199-211.
 - **[2]** Reed, Irving S., and Gustave Solomon. "Polynomial codes over certain finite fields." Journal of the society for industrial and applied mathematics 8.2 (1960): 300-304.
