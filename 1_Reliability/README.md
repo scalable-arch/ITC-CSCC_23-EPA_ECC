@@ -5,7 +5,7 @@
 - System ECC redundancy: 32 bit
 - On-Die ECC redundancy: 24 bit
 - Num of DQ: 64 (Psuedo-channel mode)
-- Num of ECC-DQ: 8
+- Num of Redundancy-DQ: 8
 - Burst Length: 4
 
 # Prior work (Fig. 1)
