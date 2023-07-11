@@ -20,6 +20,7 @@
 - 5. Error injection: Errors occur based on the error scenarios. **(Caution!) This evaluation has no fault!**
 - 6. Apply **OD-ECC (On-Die ECC)**
 >> Prior work: Apply the Hsiao SEC-DED code of (104, 96) to each ECC block.
+>> 
 >> EPA-ECC: Apply the RS SSC-DSD code of [39, 36] to an ECC block.
 - 7. Report CE/DUE/SDC results.
 - 8. **(End loop)** Derive final results.
