@@ -16,12 +16,9 @@ Paper URL: **(to be updated later)**
 # Overview
 ![An Overview of the evaluation](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/EPA%20ECC_Overview.png)
 
-# 1_Performance_DRAMenergy
-- Figure 7
-- **Figure 8** (Multi-core) is **not uploaded!** (to large size! 3GB)
+# 1_Reliability
+- Table 2
+- Table 3 was calculated based on Table 1 and Table 2.
 
-# 2_Error_Scenario
+# 2_Hardware_overheads
 - Table 4
-
-# 3_DUE_SDC_probability_Against_Raw_BER
-- Figure 10
