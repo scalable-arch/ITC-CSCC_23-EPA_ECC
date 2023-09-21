@@ -15,7 +15,7 @@ Paper title: [ITC-CSCC'23] EPA ECC: Error-Pattern-Aligned ECC for HBM2E
 Paper URL: https://ieeexplore.ieee.org/abstract/document/10212882
 
 # Overview
-![An Overview of the evaluation](https://github.com/xyz123479/ITC-CSCC_23-EPA_ECC/blob/master/EPA%20ECC_Overview.png)
+![An Overview of the evaluation](https://github.com/scalable-arch/ITC-CSCC_23-EPA_ECC/blob/master/EPA%20ECC_Overview.png)
 
 # 1_Reliability
 - Table 2
