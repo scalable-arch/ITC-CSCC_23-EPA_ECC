@@ -1,5 +1,7 @@
 # ITC-CSCC'23-EPA ECC
 
+# This project is licensed under the terms of the MIT license
+
 # Author
 
 **Kiheon Kwon** 
